@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-### Currently Sr Data Engineer at The Climate Corporation
+#### Current: Sr Data Engineer at The Climate Corporation
 
-### Previously: NASA SERVIR
+#### Former: NASA SERVIR
 
-### Interests: Geospatial Tech, Business, Travel. 
+#### Interests: Geospatial Tech, Business, Travel. 
+
+The views and opinions expressed are mine and do not reflect the official policy or position of any organization that I might be affiliated with
